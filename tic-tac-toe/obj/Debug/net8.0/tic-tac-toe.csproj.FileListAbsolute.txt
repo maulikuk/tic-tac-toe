@@ -1,0 +1,14 @@
+D:\Projects\tic-tac-toe\tic-tac-toe\bin\Debug\net8.0\tic-tac-toe.exe
+D:\Projects\tic-tac-toe\tic-tac-toe\bin\Debug\net8.0\tic-tac-toe.deps.json
+D:\Projects\tic-tac-toe\tic-tac-toe\bin\Debug\net8.0\tic-tac-toe.runtimeconfig.json
+D:\Projects\tic-tac-toe\tic-tac-toe\bin\Debug\net8.0\tic-tac-toe.dll
+D:\Projects\tic-tac-toe\tic-tac-toe\bin\Debug\net8.0\tic-tac-toe.pdb
+D:\Projects\tic-tac-toe\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\tic-tac-toe\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.AssemblyInfoInputs.cache
+D:\Projects\tic-tac-toe\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.AssemblyInfo.cs
+D:\Projects\tic-tac-toe\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.csproj.CoreCompileInputs.cache
+D:\Projects\tic-tac-toe\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.dll
+D:\Projects\tic-tac-toe\tic-tac-toe\obj\Debug\net8.0\refint\tic-tac-toe.dll
+D:\Projects\tic-tac-toe\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.pdb
+D:\Projects\tic-tac-toe\tic-tac-toe\obj\Debug\net8.0\tic-tac-toe.genruntimeconfig.cache
+D:\Projects\tic-tac-toe\tic-tac-toe\obj\Debug\net8.0\ref\tic-tac-toe.dll

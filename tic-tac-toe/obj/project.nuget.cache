@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bDuW3Rt8qPIttCfXckf2zOE7WGz0E3+5ZqDxFkBGDzQuNO088GJAIxR4z8E6wRSdylZ0wCAqiPqlyDQGIe2RnQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\tic-tac-toe\\tic-tac-toe\\tic-tac-toe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Krishna\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\Krishna\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Krishna\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
